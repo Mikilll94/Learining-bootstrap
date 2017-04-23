@@ -1,4 +1,11 @@
-.login_form {
-    width: 350px;
-    margin: 20px 0 0 20px;
+hr {
+    border: 1px solid black
+}
+
+.head-form {
+    text-align: center;
+}
+
+.form-title {
+    font-size: 30px;
 }
