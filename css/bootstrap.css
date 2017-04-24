@@ -5758,8 +5758,12 @@ button.list-group-item-danger.active:focus {
   border-color: #7f7f00;
 }
 .panel-warning > .panel-heading {
-  color: #8a6d3b;
-  background-color: #fff843;
+  color: #67450c;
+  background: #d3c461;
+  background: -webkit-linear-gradient(left, #d3c461 0%, #e6db96 100%);
+  background: -moz-linear-gradient(left, #d3c461 0%, #e6db96 100%);
+  background: -o-linear-gradient(left, #d3c461 0%, #e6db96 100%);
+  background: linear-gradient(to right, #d3c461 0%, #e6db96 100%);
   border-color: #faebcc;
 }
 .panel-warning > .panel-heading + .panel-collapse > .panel-body {
